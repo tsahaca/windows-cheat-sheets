@@ -1,0 +1,3 @@
+= Windows, curl, and Self-signed Cert
+
+https://www.phillipsj.net/posts/windows-curl-and-self-signed-certs/
